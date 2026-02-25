@@ -1,4 +1,5 @@
-# 👋 Hi, I’m Behan Wickramasinghe  
+# 👋 Hi, I’m Behan Wickramasinghe
+
 🚀 I am an aspiring Software Engineer passionate about designing and building scalable, real-world applications. Experienced with multiple programming languages including Java, C#, JavaScript, and Python, and modern frameworks such as React, Next.js, .NET, Nodejs, and Spring Boot. Strong interest in AI integration and Machine Learning, with a focus on incorporating intelligent features into web applications to build smarter solutions. Also gaining hands-on experience in Cloud Computing with AWS, while continuously improving problem-solving abilities, system design knowledge, and writing clean, maintainable code.  
 
 ---
